@@ -42,6 +42,8 @@ function makeInt(n){
     return parseInt(n, 10);
 }
 
+
+
 makeInt("263");
 console.log(makeInt("263"));
 
